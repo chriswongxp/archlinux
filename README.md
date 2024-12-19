@@ -1,6 +1,6 @@
-### Archlinux System Install Script
+# Archlinux System Install Script
 
-# Usage
+### Usage
 ```
 curl -sL 'https://raw.githubusercontent.com/chriswongxp/archlinux-install/refs/heads/main/install.sh' | bash
 ```
